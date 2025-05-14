@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>sdk_sagittarius_arm</name>
+  <version>0.0.1</version>
+  <description>ROS 2 driver of Sagittarius_arm</description>
+
+  <maintainer email="ruoyin_wang0908@nicloud.com">RuoyinWang</maintainer>
+  <license>BSD</license> 
+
+  <!-- 声明此包属于 rosidl_interface_packages -->
+  <member_of_group>rosidl_interface_packages</member_of_group>
+
+  <!-- 1) ament_cmake + rosidl_default_generators -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <buildtool_depend>rosidl_default_generators</buildtool_depend>
+ 
+  <!-- 2) 运行/构建依赖 -->
+  <depend>rclcpp</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>rosidl_default_runtime</depend>
+  <depend>diagnostic_updater</depend>
+  <depend>actionlib_msgs</depend>
+  <depend>actionlib</depend>
+  <depend>yaml-cpp</depend>
+  <depend>libusb-1.0-0-dev</depend>
+
+  <!-- 3) export -->
+  <export>
+    <build_type>ament_cmake</build_type>
+   <!--  <member_of_group>rosidl_interface_packages</member_of_group>-->
+  </export>
+</package>

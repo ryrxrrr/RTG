@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<library path="libsagittarius_system.so">
+  <class name="sagittarius_arm/SagittariusSystemHardware"
+         type="sdk_sagittarius_arm::SagittariusSystemHardware"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      ROS2 control hardware interface plugin for the Sagittarius Arm.
+    </description>
+  </class>
+</library>
