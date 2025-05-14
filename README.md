@@ -20,6 +20,8 @@ Trajectory planning and collision-aware motion control via MoveIt 2;
 
 Custom-built Qt-based Linux GUI for grasp control and visualization.
 
+🌟 You could also download full project from google drive link below: https://drive.google.com/file/d/1MuyXaOqRw7RYu0Ut04jqai4sWxkhOfQ6/view?usp=drive_link
+
 🌟Since I could not find any published paper or existing robotic arm system that performs "arbitrary object grasping in natural environments", there is currently no baseline for direct comparison. As a result, I have not yet conducted quantitative benchmarking to measure the performance improvement. However, I plan to define and implement a proper evaluation method soon.
 
 🌟This is my undergraduate final year project, and I acknowledge that some parts may be suboptimal or incomplete due to time and experience constraints. If you find any issues or have suggestions, I would sincerely appreciate your feedback. Thank you soooooo much！！！！！
