@@ -4,7 +4,7 @@
   <name>sgr532_moveit_demo</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="343295685@qq.com">song</maintainer>
+  <maintainer email="ruoyin_wang0908@icloud.com">Ruoyin Wang</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

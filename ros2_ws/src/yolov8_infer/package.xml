@@ -4,7 +4,7 @@
   <name>yolov8_infer</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="royin@todo.todo">royin</maintainer>
+  <maintainer email="ruoyin_wang0908@icloud.com">royin wang</maintainer>
   <license>TODO: License declaration</license>
 
   <depend>rclpy</depend>
